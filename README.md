@@ -8,5 +8,5 @@ Project 0 CUDA Getting Started
 * Part 5: Not done
 
 Part 4 Screenshot
-![](images/Capture1.png)
+![](images/Capture1.PNG)
 
